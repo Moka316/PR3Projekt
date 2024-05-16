@@ -35,13 +35,9 @@ darkIT ist eine Spielesammlung, speziell entwickelt für Kinder im Alter von 6 b
 - Java [19]
 - JavaFX [JDK11-Full]
 
-## Installation
+## Starten-der-JAR
 
-Kommt noch.
-
-## Verwendung
-
-Kommt noch.
+Im Ordner JAR befindet sich eine Datei "Starte SpieleSammlung07.bat", für Windows.
 
 ## Spiele und Use Cases
 
